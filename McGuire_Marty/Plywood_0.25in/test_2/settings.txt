@@ -1,0 +1,34 @@
+Cutting Settings
+
+| Color | Power | Speed | Freq |
+--------------------------------
+| Test7 |  0%   | 0%    | 0    |
+| Test8 |  0%   | 0%    | 0    |
+| Test9 |  0%   | 0%    | 0    |
+
+Engraving Settings
+
+| Color | Power | Speed | Freq |
+--------------------------------
+| Test10 |  0%   | 0%    | 0    |
+| Test11 |  0%   | 0%    | 0    |
+| Test12 |  0%   | 0%    | 0    |
+
+----
+
+Cutting Results
+
+| Color  | Cut through? | Scorch marks on front? | Scorch marks on back? |
+--------------------------------------------------------------------------
+| Test7 | No            | No                     | No                    |
+| Test8 | No            | No                     | No                    |
+| Test8 | No            | No                     | No                    |
+
+
+Engraving Results
+
+| Color  | Quality (No mark, light, readable, scorched, burned through) |
+-------------------------------------------------------------------------
+| Test10 | No mark                                                      |
+| Test11 | No mark                                                      |
+| Test12 | No mark                                                      |
