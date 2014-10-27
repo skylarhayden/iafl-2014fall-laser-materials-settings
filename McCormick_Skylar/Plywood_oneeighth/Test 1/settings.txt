@@ -1,0 +1,6 @@
+Power: 85  Speed: 100 Result: not cut through 
+Power: 80 Speed: 100 Result: not cut through 
+Power: 70 Speed: 80 Result: not cut through 
+Power: 60 Speed: 60 Result: not cut through 
+Power: 75 Speed: 75 Result: not cut through 
+Power: 90 Speed: 100 Result: not cut through
